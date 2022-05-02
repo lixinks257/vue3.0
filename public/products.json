@@ -1,0 +1,12 @@
+[
+  {
+    "id": "id1",
+    "name": "name1",
+    "distance": "distance1"
+  },
+  {
+    "id": "id2",
+    "name": "name2",
+    "distance": "distance2"
+  }
+]
